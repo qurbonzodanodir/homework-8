@@ -3,7 +3,7 @@
     padding: 0;
 }
 .main{
-   background-color: aqua;
+
    width: 500px;
   box-shadow: 5px 5px 5px gray,
   -5px -5px 5px gray;
@@ -24,6 +24,7 @@
 }
 .container{
     padding: 15px 15px;
+    display: flex;
 }
 .icon{
     margin-top: -60px;
@@ -31,7 +32,7 @@
 }
 .icon1{
    text-align: center;
-    background-color: black;
+    background-color: #009688;
     padding-left: 70px;
     color :white;
     margin-right: 50px;
@@ -40,14 +41,14 @@
 }
 .icon2{
     text-align: center;
-     background-color: black;
+     background-color:#009688;
      color :white;
      margin-right: 150px;
      margin-left: 20px;
      border-radius: 20px 20px ;
  }
  .icon3{
-     background-color: black;
+     background-color:#009688;
      color :white;
      margin-right: 180px;
      margin-left: 20px;
@@ -55,12 +56,64 @@
      padding-left: 140px;
  }
  .icon4{
-     background-color: black;
+     background-color:#009688;
      color :white;
      margin-right: 230px;
      margin-left: 20px;
      border-radius: 20px 20px ;
-     padding-left: 8    0px;
+     padding-left: 80px;
 
  }
+ .icon5{
+    text-align: center;
+     background-color:#009688;
+     padding-left: 70px;
+     margin-right: 40px;
+     padding-top: 4px;
+     padding-bottom: 4px;
+     margin-left: 20px;
+     border-radius: 20px 20px ;
+     color: #009688;
+ }
+ .icon6{
+     background-color:#009688;
+     padding-left: 70px;
+     margin-right: 180px;
+     padding-top: 4px;
+     padding-bottom: 4px;
+     margin-left: 20px;
+     border-radius: 20px 20px ;
+     color: #009688;
+ }
+ .icon7{
+    text-align: center;
+     background-color:#009688;
+     padding-left: 70px;
+     margin-right: 300px;
+     padding-top: 4px;
+     padding-bottom: 4px;
+     margin-left: 20px;
+     border-radius: 20px 20px ;
+     color: #009688;
+ }
+ .main1{
+    padding-left: 15px;
+    margin-left: 18px;
+    box-shadow: 5px 5px 5px gray,
+  -5px -5px 5px gray;
+
+    
+ }
+ .main1 p{
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+    font-size: 20px;
+ }
+.item{
+    padding-top: 35px;
+    font-size: 20px;
+}
+.main1 h3{
+    font-size:23px;
+}
 
