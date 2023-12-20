@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+   background-color: aqua;
+   width: 500px;
+  box-shadow: 5px 5px 5px gray,
+  -5px -5px 5px gray;
+
+}
+.main img{
+    width: 500px;
+    height: 300px;
+}
+.main h1{
+    padding-left: 20px;
+}
+.main h2{
+    padding-left: 20px;
+}
+.main h3{
+    padding-left: 20px;
+}
+.container{
+    padding: 15px 15px;
+}
+.icon{
+    margin-top: -60px;
+    color: white;
+}
+.icon1{
+   text-align: center;
+    background-color: black;
+    padding-left: 70px;
+    color :white;
+    margin-right: 50px;
+    margin-left: 20px;
+    border-radius: 20px 20px ;
+}
+.icon2{
+    text-align: center;
+     background-color: black;
+     color :white;
+     margin-right: 150px;
+     margin-left: 20px;
+     border-radius: 20px 20px ;
+ }
+ .icon3{
+     background-color: black;
+     color :white;
+     margin-right: 180px;
+     margin-left: 20px;
+     border-radius: 20px 20px ;
+     padding-left: 140px;
+ }
+ .icon4{
+     background-color: black;
+     color :white;
+     margin-right: 230px;
+     margin-left: 20px;
+     border-radius: 20px 20px ;
+     padding-left: 8    0px;
+
+ }
+
