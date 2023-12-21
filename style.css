@@ -4,7 +4,7 @@
 }
 .main{
 
-   width: 500px;
+   width: 44%;
   box-shadow: 2px 2px 5px gray,
   -2px -2px 5px gray;
   color: #757575;
@@ -26,6 +26,7 @@
 .container{
     padding: 15px 15px;
     display: flex;
+    padd
 }
 .icon{
     margin-top: -60px;
@@ -110,10 +111,11 @@
     padding-bottom: 20px;
     border-bottom: 1px solid grey;
     font-size: 20px;
+
  }
 .item{
     padding-top: 35px;
-    font-size: 17px;
+    font-size: 27px;
     color: #757575;
 }
 .main1 h3{
@@ -125,12 +127,12 @@
 }
 .main2{
     height: 620px;
-    width: 900px;
     padding-left: 15px;
     margin-left: 18px;
     box-shadow: 5px 5px 5px gray,
   -5px -5px 5px gray;
   font-family: "Roboto", sans-serif;
+  margin-top: 20px;
  }
  .main2 p{
     padding-bottom: 20px;
@@ -149,5 +151,11 @@ span{
     color: white;
     padding: 2px 8px 2px 6px;
     border-radius: 7px;
+}
+i{
+    padding: 10px;
+}
+.item i{
+    padding: 10px ;
 }
 
